@@ -1,6 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
-
+@SuppressWarnings("serial")
 class Main extends JFrame {
     
     class App extends JPanel {
